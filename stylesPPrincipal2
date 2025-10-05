@@ -1,12 +1,10 @@
-/* cabeçalho */
 .header {
   background-color: #f2f2f2;
   padding: 5px;
   font-size: 18px;
   font-weight: bold;
 }
-.div-header {
-}
+
 .titulo {
   text-align: center;
 }

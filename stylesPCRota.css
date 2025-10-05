@@ -14,11 +14,57 @@
 }
 .cabeçario {
   text-align: center;
-  margin: 10px;
+  margin: 20px;
   font-size: 20px;
   font-weight: bold;
 }
-
+/* Principal 1 main */
+.main {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  line-height: 1.6;
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-criar-rota {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  line-height: 1.6;
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Principal 2 main*/
+.paradas-intervalo {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  line-height: 1.6;
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* Roda Pe */
 .footer {
   background-color: #f2f2f2;
