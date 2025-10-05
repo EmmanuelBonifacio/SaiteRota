@@ -17,3 +17,27 @@
   font-size: 18px;
   line-height: 1.6;
 }
+.botoes {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+/* Roda Pe */
+.footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.texto-principal-footer {
+  text-align: center;
+  margin: 20px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.texto-secundario-footer {
+  text-align: center;
+  margin: 20px;
+  font-size: 12px;
+  line-height: 1.6;
+}
