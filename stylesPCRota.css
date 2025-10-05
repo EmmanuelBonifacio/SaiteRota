@@ -1,0 +1,40 @@
+/* Cabeçario 1 */
+.cabeçario-principal {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-size: 14px;
+}
+.botao-header {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+.cabeçario {
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Roda Pe */
+.footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.texto-principal-footer {
+  text-align: center;
+  margin: 20px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.texto-secundario-footer {
+  text-align: center;
+  margin: 20px;
+  font-size: 12px;
+  line-height: 1.6;
+}
